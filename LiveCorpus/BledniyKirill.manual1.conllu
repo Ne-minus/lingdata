@@ -680,7 +680,7 @@
 677	говорите	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	iau1978m-words#iau1978m#1482.814#1483.007
 678	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	iau1978m-words#iau1978m#1483.007#1483.2
 679	?	?	PUNCT	_	_	_	_	_	iau1978m-words#iau1978m#1483.2#1483.396
-680	сколько	сколько	PRON	_	Case=Nom _	_	_	_	iau1978m-words#iau1978m#1486.81#1487.008
+680	сколько	сколько	NUM	_ _	_	_	_	iau1978m-words#iau1978m#1486.81#1487.008
 681	раз	раз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	iau1978m-words#iau1978m#1487.008#1487.206
 682	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	iau1978m-words#iau1978m#1487.206#1487.404
 683	помните	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	iau1978m-words#iau1978m#1487.404#1487.602
