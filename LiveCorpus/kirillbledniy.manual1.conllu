@@ -568,7 +568,7 @@
 565	весна	весна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	iau1978m-words#iau1978m#1442.233#1442.501
 566	какое	какой	DET	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	iau1978m-words#iau1978m#1442.501#1442.769
 567	число	число	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	iau1978m-words#iau1978m#1442.769#1443.037
-568	еще	еще	ADV	_	Degree=Pos	_	_	_	iau1978m-words#iau1978m#1443.037#1443.305
+568	еще	еще	PART	_	_	_	_	iau1978m-words#iau1978m#1443.037#1443.305
 569	пока	пока	ADV	_	Degree=Pos	_	_	_	iau1978m-words#iau1978m#1443.305#1443.573
 570	неизвестно	неизвестный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	iau1978m-words#iau1978m#1443.573#1443.841
 571	/	/	PUNCT	_	_	_	_	_	iau1978m-words#iau1978m#1443.841#1444.109
@@ -645,7 +645,7 @@
 642	если	если	SCONJ	_	_	_	_	_	iau1978m-words#iau1978m#1467.534#1467.732
 643	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	iau1978m-words#iau1978m#1467.732#1467.93
 644	говорите	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	iau1978m-words#iau1978m#1467.93#1468.128
-645	#нрзб#	#нрзб#	X	_	Foreign=Yes	_	_	_	iau1978m-words#iau1978m#1468.128#1468.326
+645	#нрзб#	#нрзб#	X	_	_	_	_	iau1978m-words#iau1978m#1468.128#1468.326
 646	/	/	PUNCT	_	_	_	_	_	iau1978m-words#iau1978m#1468.326#1468.524
 647	/	/	PUNCT	_	_	_	_	_	iau1978m-words#iau1978m#1468.524#1468.727
 648	господи	господь	NOUN	_	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	_	_	_	iau1978m-words#iau1978m#1475.95#1476.186
@@ -780,7 +780,7 @@
 777	не	не	PART	_	_	_	_	_	iau1978m-words#iau1978m#1568.393#1568.671
 778	понимаю	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	iau1978m-words#iau1978m#1568.671#1568.949
 779	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	_	_	_	iau1978m-words#iau1978m#1568.949#1569.227
-780	еще	еще	ADV	_	Degree=Pos	_	_	_	iau1978m-words#iau1978m#1569.227#1569.505
+780	еще	еще	PART	_	_	_	_	iau1978m-words#iau1978m#1569.227#1569.505
 781	подходит	подходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	iau1978m-words#iau1978m#1569.505#1569.783
 782	по	по	ADP	_	_	_	_	_	iau1978m-words#iau1978m#1569.783#1570.061
 783	возрасту	возраст	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	_	_	_	iau1978m-words#iau1978m#1570.061#1570.339
@@ -818,7 +818,7 @@
 815	/	/	PUNCT	_	_	_	_	_	iau1978m-words#iau1978m#1582.771#1583.024
 816	тогда	тогда	ADV	_	Degree=Pos	_	_	_	iau1978m-words#iau1978m#1583.024#1583.277
 817	подождем	подождать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	iau1978m-words#iau1978m#1583.277#1583.53
-818	еще	еще	ADV	_	Degree=Pos	_	_	_	iau1978m-words#iau1978m#1583.53#1583.783
+818	еще	еще	PART	_	_	_	_	iau1978m-words#iau1978m#1583.53#1583.783
 819	пока	пока	ADV	_	Degree=Pos	_	_	_	iau1978m-words#iau1978m#1583.783#1584.036
 820	/	/	PUNCT	_	_	_	_	_	iau1978m-words#iau1978m#1584.036#1584.289
 821	/	/	PUNCT	_	_	_	_	_	iau1978m-words#iau1978m#1584.289#1584.543
@@ -1105,7 +1105,7 @@
 1102	нет	нет	INTJ	_	_	_	_	_	krt1997m-words#krt1997m#1445.269#1445.497
 1103	/	/	PUNCT	_	_	_	_	_	krt1997m-words#krt1997m#1445.497#1445.725
 1104	пока	пока	ADV	_	Degree=Pos	_	_	_	krt1997m-words#krt1997m#1445.725#1445.953
-1105	еще	еще	ADV	_	Degree=Pos	_	_	_	krt1997m-words#krt1997m#1445.953#1446.181
+1105	еще	еще	PART	_	_	_	_	krt1997m-words#krt1997m#1445.953#1446.181
 1106	думаем	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	krt1997m-words#krt1997m#1446.181#1446.409
 1107	ну	ну	PART	_	_	_	_	_	krt1997m-words#krt1997m#1446.409#1446.637
 1108	вот	вот	PART	_	_	_	_	_	krt1997m-words#krt1997m#1446.637#1446.865
