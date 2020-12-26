@@ -1,6 +1,6 @@
-# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
-# udpipe_model = russian-syntagrus-ud-2.6-200830
-# udpipe_model_licence = CC BY-NC-SA
+
+
+
 1	Да	да	INTJ	_	_	_	_	_	words@ert1993f#@ert1993f#1593.87#1594.127
 2	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1594.127#1594.186
 3	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	words@ert1993f#@ert1993f#1594.186#1594.317
@@ -32,8 +32,8 @@
 29	прям	прям	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1605.453#1605.629
 30	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1605.629#1606.176
 31	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1606.176#1606.836
-32	такой	такой	DET	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1606.836#1607.265
-33	типа	типа	PART	_	_	_	_	words@ert1993f#@ert1993f#1607.265#1607.332
+32	такой	такой	DET	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1606.836#1607.265
+33	типа	типа	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1607.265#1607.332
 34	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1607.332#1607.571
 35	ну	ну	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1607.571#1607.606
 36	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@ert1993f#@ert1993f#1607.606#1607.633
@@ -42,7 +42,7 @@
 39	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1608.026#1608.056
 40	знаете	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1608.056#1608.311
 41	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1608.311#1608.332
-42	манифест	манифест	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1608.332#1608.811
+42	манифест	манифест	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1608.332#1608.811
 43	женской	женский	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1608.811#1609.068
 44	дружбы	дружба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1609.068#1609.711
 45	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1609.711#1609.748
@@ -63,7 +63,7 @@
 60	настолько	настолько	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1612.568#1612.849
 61	у	у	ADP	_	_	_	_	_	words@ert1993f#@ert1993f#1612.849#1612.962
 62	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	_	_	_	words@ert1993f#@ert1993f#1612.962#1613.169
-63	стало	стать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1613.169#1613.412
+63	стало	стать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@ert1993f#@ert1993f#1613.169#1613.412
 64	меняться	меняться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	_	_	_	words@ert1993f#@ert1993f#1613.412#1613.916
 65	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1613.916#1614.508
 66	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1614.508#1615.052
@@ -74,7 +74,7 @@
 71	ну	ну	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1615.924#1616.066
 72	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1616.066#1616.145
 73	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1616.145#1616.366
-74	скажем	сказать	ADV	_	_	_	_	words@ert1993f#@ert1993f#1616.366#1616.629
+74	скажем	скажем	ADV	_	_	_	_	_	words@ert1993f#@ert1993f#1616.366#1616.629
 75	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1616.629#1616.713
 76	у	у	ADP	_	_	_	_	_	words@ert1993f#@ert1993f#1616.713#1616.824
 77	Нюты	Нюта	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1616.824#1617.067
@@ -91,10 +91,10 @@
 88	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1619.681#1619.838
 89	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1619.838#1619.937
 90	усиливало	усиливать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1619.937#1620.707
-91	что	что	PRON	_	Case=Acc	_	_	_	words@ert1993f#@ert1993f#1620.707#1620.769
+91	что	что	PRON	_	Case=Nom	_	_	_	words@ert1993f#@ert1993f#1620.707#1620.769
 92	ли	ли	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1620.769#1620.815
 93	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1620.815#1620.847
-94	там	там	PART	_	_	_	_	words@ert1993f#@ert1993f#1620.847#1621.091
+94	там	там	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1620.847#1621.091
 95	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1621.091#1621.335
 96	дружбу	дружба	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1621.335#1621.727
 97	с	с	ADP	_	_	_	_	_	words@ert1993f#@ert1993f#1621.727#1621.774
@@ -105,7 +105,7 @@
 102	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1622.717#1622.751
 103	пока	пока	SCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1622.751#1622.876
 104	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@ert1993f#@ert1993f#1622.876#1622.956
-105	там	там	PART	_	_	_	_	words@ert1993f#@ert1993f#1622.956#1623.202
+105	там	там	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1622.956#1623.202
 106	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1623.202#1623.328
 107	с	с	ADP	_	_	_	_	_	words@ert1993f#@ert1993f#1623.328#1623.418
 108	Женей	Женя	PROPN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1623.418#1623.956
@@ -122,7 +122,7 @@
 119	другие	другой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	words@ert1993f#@ert1993f#1627.843#1628.211
 120	стороны	сторона	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	words@ert1993f#@ert1993f#1628.211#1628.479
 121	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1628.479#1628.508
-122	стали	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1628.508#1628.78
+122	стали	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@ert1993f#@ert1993f#1628.508#1628.78
 123	расти	расти	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1628.78#1629.085
 124	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1629.085#1629.148
 125	и	и	CCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1629.148#1629.173
@@ -149,18 +149,18 @@
 146	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1634.684#1635.177
 147	жёсткого	жёсткий	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1635.177#1635.774
 148	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1635.774#1635.803
-149	там	там	PART	_	_	_	_	words@ert1993f#@ert1993f#1635.803#1635.84
-150	атеиста	атеист	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1635.84#1636.357
+149	там	там	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1635.803#1635.84
+150	атеиста	атеист	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1635.84#1636.357
 151	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1636.357#1636.418
 152	учить	учить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1636.418#1637.269
 153	тому	то	PRON	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1637.269#1637.386
 154	как	как	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1637.386#1637.625
 155	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1637.625#1637.654
-156	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_	words@ert1993f#@ert1993f#1637.654#1638.016
+156	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1637.654#1638.016
 157	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1638.016#1638.037
 158	креститься	креститься	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	_	_	_	words@ert1993f#@ert1993f#1638.037#1638.924
 159	и	и	CCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1638.924#1638.951
-160	типа	типа	PART	_	_	_	_	words@ert1993f#@ert1993f#1638.951#1639.202
+160	типа	типа	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1638.951#1639.202
 161	говоришь	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1639.202#1639.46
 162	вот	вот	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1639.46#1639.635
 163	если	если	SCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1639.635#1639.738
@@ -173,7 +173,7 @@
 170	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1641.315#1641.391
 171	всё	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1641.391#1641.571
 172	сразу	сразу	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1641.571#1641.788
-173	лучше	хорошо	ADJ	_	Degree=Cmp	_	_	_	words@ert1993f#@ert1993f#1641.788#1642.299
+173	лучше	хорошо	ADV	_	Degree=Cmp	_	_	_	words@ert1993f#@ert1993f#1641.788#1642.299
 174	станет	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Mid	_	_	_	words@ert1993f#@ert1993f#1642.299#1642.42
 175	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1642.42#1642.468
 176	и	и	CCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1642.468#1642.598
@@ -181,10 +181,10 @@
 178	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1642.735#1642.872
 179	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1642.872#1643.009
 180	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1643.009#1643.146
-181	#вздыхает#	#вздыхает#	X	_	_	_	_	words@ert1993f#@ert1993f#1643.146#1644.112
+181	#вздыхает#	#вздыхает#	X	_	_	_	_	_	words@ert1993f#@ert1993f#1643.146#1644.112
 182	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1644.112#1644.244
 183	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1644.244#1644.368
-184	прими	прнять	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1644.368#1644.603
+184	прими	принять	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1644.368#1644.603
 185	тот	тот	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1644.603#1644.838
 186	факт	факт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1644.838#1645.073
 187	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1645.073#1645.094
@@ -237,7 +237,7 @@
 234	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1655.212#1655.265
 235	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1655.265#1655.326
 236	но	но	CCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1655.326#1655.753
-237	я...	я...	X	_	_	_	_	words@ert1993f#@ert1993f#1655.753#1656.084
+237	я...	я...	X	_	_	_	_	_	words@ert1993f#@ert1993f#1655.753#1656.084
 238	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@ert1993f#@ert1993f#1656.084#1656.416
 239	очень	очень	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1656.416#1656.759
 240	хотела	хотеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1656.759#1657.106
@@ -252,16 +252,16 @@
 249	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1658.251#1658.301
 250	не	не	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1658.301#1658.449
 251	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1658.449#1658.587
-252	что	что	SCONJ	_	Case=Acc	_	_	_	words@ert1993f#@ert1993f#1658.587#1658.686
-253	типа	типа	PART	_	_	_	_	words@ert1993f#@ert1993f#1658.686#1658.87
+252	что	что	PRON	_	Case=Acc	_	_	_	words@ert1993f#@ert1993f#1658.587#1658.686
+253	типа	типа	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1658.686#1658.87
 254	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1658.87#1658.909
-255	да	да	CCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1658.909#1658.966
+255	да	да	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1658.909#1658.966
 256	заткнись	заткнуться	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Mid	_	_	_	words@ert1993f#@ert1993f#1658.966#1659.579
 257	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@ert1993f#@ert1993f#1659.579#1659.652
 258	!	!	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1659.652#1659.754
 259	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1659.754#1660.011
 260	а	а	CCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1660.011#1660.14
-261	типа	типа	PART	_	_	_	_	words@ert1993f#@ert1993f#1660.14#1660.398
+261	типа	типа	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1660.14#1660.398
 262	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1660.398#1660.725
 263	вот	вот	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1660.725#1660.859
 264	свою	свой	DET	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1660.859#1661.227
@@ -271,7 +271,7 @@
 268	а	а	CCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1661.933#1662.191
 269	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	_	_	_	words@ert1993f#@ert1993f#1662.191#1662.56
 270	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1662.56#1662.725
-271	то	то	SCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1662.725#1662.847
+271	то	то	CCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1662.725#1662.847
 272	ли	ли	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1662.847#1662.953
 273	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1662.953#1663.926
 274	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1663.926#1664.788
@@ -288,8 +288,8 @@
 285	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1668.225#1668.297
 286	хотя	хотя	SCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1668.297#1668.407
 287	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@ert1993f#@ert1993f#1668.407#1668.449
-288	там	там	PART	_	_	_	_	words@ert1993f#@ert1993f#1668.449#1668.692
-289	типа	типа	PART	_	_	_	_	words@ert1993f#@ert1993f#1668.692#1668.73
+288	там	там	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1668.449#1668.692
+289	типа	типа	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1668.692#1668.73
 290	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1668.73#1668.759
 291	никогда	никогда	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1668.759#1669.525
 292	на	на	ADP	_	_	_	_	_	words@ert1993f#@ert1993f#1669.525#1669.596
@@ -341,7 +341,7 @@
 338	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	words@ert1993f#@ert1993f#1680.083#1680.299
 339	просто	просто	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1680.299#1680.52
 340	весилилсь	веселиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@ert1993f#@ert1993f#1680.52#1680.779
-341	там	там	PART	_	_	_	_	words@ert1993f#@ert1993f#1680.779#1680.981
+341	там	там	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1680.779#1680.981
 342	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1680.981#1681.083
 343	тусили	тусить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1681.083#1681.52
 344	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1681.52#1682.238
@@ -371,10 +371,10 @@
 368	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1689.834#1689.909
 369	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1689.909#1689.987
 370	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@ert1993f#@ert1993f#1689.987#1690.052
-371	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act _	_	_	_	words@ert1993f#@ert1993f#1690.052#1690.161
+371	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act_	_	_	_	words@ert1993f#@ert1993f#1690.052#1690.161
 372	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1690.161#1690.192
 373	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1690.192#1690.261
-374	много	много	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1690.261#1690.399
+374	много	много	NUM	_	_	_	_	_	words@ert1993f#@ert1993f#1690.261#1690.399
 375	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1690.399#1690.537
 376	много	много	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1690.537#1690.776
 377	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1690.776#1690.803
@@ -403,27 +403,27 @@
 400	стали	стать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@ert1993f#@ert1993f#1696.78#1697.156
 401	каждый	каждый	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1697.156#1697.33
 402	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1697.33#1697.649
-403	поперёк	поперёк	ADV	_ Degree_Pos	_	_	_	_	words@ert1993f#@ert1993f#1697.649#1698.058
+403	поперёк	поперёк	ADP	_	_	_	_	_	words@ert1993f#@ert1993f#1697.649#1698.058
 404	горла	горло	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1698.058#1698.428
 405	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1698.428#1698.499
 406	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1698.499#1698.56
 407	ну	ну	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1698.56#1698.806
-408	типа	типа	PART	_	_	_	_	words@ert1993f#@ert1993f#1698.806#1699.052
+408	типа	типа	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1698.806#1699.052
 409	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@ert1993f#@ert1993f#1699.052#1699.298
 410	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1699.298#1699.604
 411	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1699.604#1699.661
-412	блен	блен	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1699.661#1699.941
+412	блен	блин	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1699.661#1699.941
 413	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1699.941#1700.451
-414	камон	камон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1700.451#1700.999
+414	камон	камон	X	_	Foreign_Yes	_	_	_	words@ert1993f#@ert1993f#1700.451#1700.999
 415	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1700.999#1701.232
 416	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1701.232#1701.334
-417	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_	words@ert1993f#@ert1993f#1701.334#1701.727
+417	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1701.334#1701.727
 418	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1701.727#1702.01
 419	это	это	PART	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1702.01#1702.106
 420	как	как	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1702.106#1702.328
 421	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1702.328#1702.393
 422	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1702.393#1702.472
-423	хм	хм	X	_	_	_	_	words@ert1993f#@ert1993f#1702.472#1702.709
+423	хм	хм	X	_	_	_	_	_	words@ert1993f#@ert1993f#1702.472#1702.709
 424	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1702.709#1702.914
 425	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1702.914#1703.119
 426	вот	вот	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1703.119#1703.447
@@ -437,7 +437,7 @@
 434	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	words@ert1993f#@ert1993f#1704.941#1705.075
 435	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1705.075#1705.437
 436	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1705.437#1705.693
-437	знаешь	знать	 VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1705.693#1705.949
+437	знаешь	знаешь	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1705.693#1705.949
 438	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1705.949#1706.205
 439	прекрасная	прекрасный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1706.205#1706.464
 440	пара	пара	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1706.464#1706.744
@@ -449,7 +449,7 @@
 446	жена	жена	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1708.797#1708.937
 447	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1708.937#1709.65
 448	у	у	ADP	_	_	_	_	_	words@ert1993f#@ert1993f#1709.65#1709.702
-449	нас...	нас...	X	_	_	_	_	words@ert1993f#@ert1993f#1709.702#1709.859
+449	нас...	нас...	X	_	_	_	_	_	words@ert1993f#@ert1993f#1709.702#1709.859
 450	все	весь	DET	_	Case=Nom|Number=Plur	_	_	_	words@ert1993f#@ert1993f#1709.859#1709.916
 451	родители	родитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	words@ert1993f#@ert1993f#1709.916#1710.527
 452	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1	_	_	_	words@ert1993f#@ert1993f#1710.527#1710.619
@@ -477,7 +477,7 @@
 474	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1715.188#1715.219
 475	все	все	PRON	_	Animacy=Anim|Case=Nom|Number=Plur	_	_	_	words@ert1993f#@ert1993f#1715.219#1715.307
 476	на	на	ADP	_	_	_	_	_	words@ert1993f#@ert1993f#1715.307#1715.355
-477	них...	них...	X	_	_	_	_	words@ert1993f#@ert1993f#1715.355#1715.464
+477	них...	них...	X	_	_	_	_	_	words@ert1993f#@ert1993f#1715.355#1715.464
 478	на	на	ADP	_	_	_	_	_	words@ert1993f#@ert1993f#1715.464#1715.504
 479	нас	мы	PRON	_	Case=Acc|Number=Plur|Person=1	_	_	_	words@ert1993f#@ert1993f#1715.504#1715.665
 480	так	так	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1715.665#1716.004
@@ -533,11 +533,11 @@
 530	чтоб	чтобы	SCONJ	_	Mood=Cnd	_	_	_	words@ert1993f#@ert1993f#1728.458#1728.554
 531	поддерживать	поддерживать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1728.554#1728.794
 532	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1728.794#1729.06
-533	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_	words@ert1993f#@ert1993f#1729.06#1729.349
+533	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1729.06#1729.349
 534	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1729.349#1729.395
 535	здоровье	здоровье	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1729.395#1729.653
 536	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1729.653#1729.788
-537	счастье	счастье	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1729.788#1730.14
+537	счастье	счастье	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1729.788#1730.14
 538	наших	наш	DET	_	Case=Gen|Number=Plur	_	_	_	words@ert1993f#@ert1993f#1730.14#1730.299
 539	родителей	родитель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	words@ert1993f#@ert1993f#1730.299#1730.765
 540	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1730.765#1730.821
@@ -555,7 +555,7 @@
 552	всё	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1734.207#1734.374
 553	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1734.374#1734.545
 554	вот	вот	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1734.545#1734.78
-555	ровнячком	ровнячок	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1734.78#1735.016
+555	ровнячком	ровнячок	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1734.78#1735.016
 556	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1735.016#1735.238
 557	и	и	CCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1735.238#1735.313
 558	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1735.313#1735.572
@@ -572,12 +572,12 @@
 569	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1737.871#1738.614
 570	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1738.614#1739.499
 571	ну	ну	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1739.499#1739.673
-572	какие-то	какой-то	DET	_	Case=Acc|Number=Plur	_	_	_	words@ert1993f#@ert1993f#1739.673#1739.843
-573	темы	тема	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	words@ert1993f#@ert1993f#1739.843#1739.951
+572	какие-то	какой-то	DET	_	Case=Nom|Number=Plur	_	_	_	words@ert1993f#@ert1993f#1739.673#1739.843
+573	темы	тема	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	words@ert1993f#@ert1993f#1739.843#1739.951
 574	проскальзывать	проскальзывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1739.951#1740.219
 575	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1740.219#1740.231
-576	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_	words@ert1993f#@ert1993f#1740.231#1740.376
-577	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1740.376#1740.529
+576	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1740.231#1740.376
+577	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1740.376#1740.529
 578	когда	когда	SCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1740.529#1740.849
 579	кто-то	кто-то	PRON	_	Case=Nom	_	_	_	words@ert1993f#@ert1993f#1740.849#1741.071
 580	скажет	сказать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1741.071#1741.327
@@ -601,7 +601,7 @@
 598	моменты	момент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	_	_	words@ert1993f#@ert1993f#1747.443#1747.82
 599	достаточно	достаточно	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1747.82#1748.229
 600	очень	очень	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1748.229#1748.436
-601	жёстко	жёстко	ADV	_	Degree=Pos _ _ _ words@ert1993f#@ert1993f#1748.436#1748.679
+601	жёстко	жёстко	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1748.436#1748.679
 602	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1748.679#1748.702
 603	и	и	CCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1748.702#1748.743
 604	если	если	SCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1748.743#1749.113
@@ -609,13 +609,13 @@
 606	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@ert1993f#@ert1993f#1749.157#1749.458
 607	думаю	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1749.458#1749.657
 608	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1749.657#1749.677
-609	что	что	SCONJ	_ _	_	_	words@ert1993f#@ert1993f#1749.677#1749.798
+609	что	что	SCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1749.677#1749.798
 610	наверно	наверное	ADV	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@ert1993f#@ert1993f#1749.798#1750.096
 611	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1750.096#1750.123
 612	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1750.123#1750.266
 613	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1750.266#1750.374
 614	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1750.374#1750.399
-615	что	что	SCONJ	_	_	_	_	words@ert1993f#@ert1993f#1750.399#1750.504
+615	что	что	SCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1750.399#1750.504
 616	послужило	послужить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1750.504#1750.748
 617	вот	вот	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1750.748#1750.95
 618	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1750.95#1750.972
@@ -627,8 +627,8 @@
 624	в	в	ADP	_	_	_	_	_	words@ert1993f#@ert1993f#1752.99#1753.017
 625	фундамент	фундамент	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1753.017#1753.46
 626	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1753.46#1753.485
-627	что	что	SCONJ	_	Case=Acc	_	_	_	words@ert1993f#@ert1993f#1753.485#1753.721
-628	типа	типа	PART	_	_	_	_	words@ert1993f#@ert1993f#1753.721#1753.928
+627	что	что	PRON	_	Case=Nom	_	_	_	words@ert1993f#@ert1993f#1753.485#1753.721
+628	типа	типа	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1753.721#1753.928
 629	раскрошило	раскрошить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1753.928#1754.968
 630	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1754.968#1754.992
 631	а	а	CCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1754.992#1755.113
@@ -637,13 +637,13 @@
 634	смогла	смочь	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1755.598#1756.029
 635	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	words@ert1993f#@ert1993f#1756.029#1756.226
 636	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1756.226#1756.253
-637	там	там	PART	_	_	_	_	words@ert1993f#@ert1993f#1756.253#1756.394
+637	там	там	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1756.253#1756.394
 638	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1756.394#1756.433
 639	поставить	поставить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1756.433#1756.876
 640	на	на	ADP	_	_	_	_	_	words@ert1993f#@ert1993f#1756.876#1756.972
 641	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1756.972#1757.261
 642	или	или	CCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1757.261#1757.403
-643	там	там	PART	_	_	_	_	words@ert1993f#@ert1993f#1757.403#1757.492
+643	там	там	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1757.403#1757.492
 644	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1757.492#1757.514
 645	не	не	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1757.514#1757.576
 646	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1757.576#1757.645
@@ -676,7 +676,7 @@
 673	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1764.103#1764.147
 674	что	что	SCONJ	_	Case=Nom	_	_	_	words@ert1993f#@ert1993f#1764.147#1764.243
 675	так	так	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1764.243#1764.389
-676	нехорошо	нехорошо	ADV	_	Degree=Pos _ _ _ words@ert1993f#@ert1993f#1764.389#1764.987
+676	нехорошо	нехорошо	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1764.389#1764.987
 677	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1764.987#1765.421
 678	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1765.421#1765.746
 679	и	и	CCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1765.746#1765.795
@@ -695,7 +695,7 @@
 692	и	и	CCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1768.33#1768.849
 693	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1768.849#1769.073
 694	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1769.073#1769.29
-695	всё	все	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1769.29#1769.529
+695	всё	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1769.29#1769.529
 696	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1769.529#1769.544
 697	на	на	ADP	_	_	_	_	_	words@ert1993f#@ert1993f#1769.544#1769.635
 698	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1769.635#1769.899
@@ -718,7 +718,7 @@
 715	не	не	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1773.009#1773.317
 716	обзывали	обзывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1773.317#1773.837
 717	друг	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1773.837#1774.056
-718	др...	др...	X	_	_	_	_	words@ert1993f#@ert1993f#1774.056#1774.204
+718	др...	др...	X	_	_	_	_	_	words@ert1993f#@ert1993f#1774.056#1774.204
 719	лучше	хороший	ADJ	_	Degree=Cmp	_	_	_	words@ert1993f#@ert1993f#1774.204#1774.413
 720	бы	бы	AUX	_	_	_	_	_	words@ert1993f#@ert1993f#1774.413#1774.537
 721	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1774.537#1774.573
@@ -766,11 +766,11 @@
 763	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1783.009#1783.157
 764	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1783.157#1783.295
 765	Женя	Женя	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1783.295#1783.554
-766	увидит	видеть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1783.554#1783.857
+766	увидит	увидеть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1783.554#1783.857
 767	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1783.857#1783.896
-768	что	что	SCONJ	_	Case=Acc	_	_	_	words@ert1993f#@ert1993f#1783.896#1784.039
+768	что	что	SCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1783.896#1784.039
 769	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@ert1993f#@ert1993f#1784.039#1784.103
-770	ся	себя	PRON	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1784.103#1784.202
+770	ся	себя	PRON	_	Case=Асс	_	_	_	words@ert1993f#@ert1993f#1784.103#1784.202
 771	веду	вести	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1784.202#1784.376
 772	как	как	SCONJ	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1784.376#1784.532
 773	говно	говно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@ert1993f#@ert1993f#1784.532#1784.835
@@ -781,17 +781,17 @@
 778	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1785.32#1785.436
 779	ну	ну	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1785.436#1785.665
 780	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@ert1993f#@ert1993f#1785.665#1785.862
-781	говно	говно	ADJ	_	Degree=Nom|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@ert1993f#@ert1993f#1785.862#1786.29
+781	говно	говно	NOUN	_	_	_	_	_	words@ert1993f#@ert1993f#1785.862#1786.29
 782	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1786.29#1786.381
 783	поржёт	поржать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1786.381#1787.298
 784	надо	надо	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1787.298#1787.711
 785	мной	я	PRON	_	Case=Ins|Number=Sing|Person=1	_	_	_	words@ert1993f#@ert1993f#1787.711#1788.305
 786	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1788.305#1788.342
 787	поунижает	поунижать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1788.342#1788.773
-788	там	там	PART	_	_	_	_	words@ert1993f#@ert1993f#1788.773#1788.958
+788	там	там	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1788.773#1788.958
 789	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1788.958#1788.975
 790	говном	говный	NOUN	_	Animacy=Anim|Case=Ins|Gender=Neut|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1788.975#1789.406
-791	ещё	еще	PART	_	_	_	_	words@ert1993f#@ert1993f#1789.406#1789.477
+791	ещё	еще	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1789.406#1789.477
 792	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc	_	_	_	words@ert1993f#@ert1993f#1789.477#1789.822
 793	раз	раз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	words@ert1993f#@ert1993f#1789.822#1790.051
 794	назовёт	назвать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1790.051#1790.374
@@ -855,8 +855,8 @@
 852	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1802.921#1803.231
 853	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@ert1993f#@ert1993f#1803.231#1803.347
 854	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1803.347#1803.485
-855	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_	words@ert1993f#@ert1993f#1803.485#1803.804
-856	типа	типа	PART	_	_	_	_	words@ert1993f#@ert1993f#1803.804#1804.123
+855	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1803.485#1803.804
+856	типа	типа	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1803.804#1804.123
 857	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1804.123#1804.352
 858	как	как	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1804.352#1804.472
 859	будто	будто	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1804.472#1804.683
@@ -865,7 +865,7 @@
 862	а	а	CCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1805.189#1805.226
 863	просто	просто	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1805.226#1805.524
 864	вот	вот	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1805.524#1805.945
-865	как	как	SCONJ	_	_	_	_	words@ert1993f#@ert1993f#1805.945#1806.041
+865	как	как	SCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1805.945#1806.041
 866	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1806.041#1806.3
 867	громко	громко	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1806.3#1806.522
 868	говоришь	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1806.522#1806.896
@@ -888,7 +888,7 @@
 885	выглядело	выглядеть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1810.736#1811.066
 886	так	так	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1811.066#1811.194
 887	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1811.194#1811.202
-888	как	как	SCONJ	_	_	_	_	words@ert1993f#@ert1993f#1811.202#1811.33
+888	как	как	SCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1811.202#1811.33
 889	будто	будто	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1811.33#1811.497
 890	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@ert1993f#@ert1993f#1811.497#1811.665
 891	орала	орать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1811.665#1811.903
@@ -904,7 +904,7 @@
 901	ответ	ответ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1813.394#1813.662
 902	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1813.662#1813.709
 903	что	что	SCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1813.709#1813.78
-904	типа	типа	PART	_	_	_	_	words@ert1993f#@ert1993f#1813.78#1814.135
+904	типа	типа	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1813.78#1814.135
 905	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1814.135#1814.189
 906	да	да	CCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1814.189#1814.332
 907	нет	нет	INTJ	_	_	_	_	_	words@ert1993f#@ert1993f#1814.332#1814.45
@@ -928,11 +928,11 @@
 925	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@ert1993f#@ert1993f#1818.485#1818.652
 926	начинаешь	начинать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1818.652#1818.968
 927	метаться	метаться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	_	_	_	words@ert1993f#@ert1993f#1818.968#1819.463
-928	типа	типа	PART	_	_	_	_	words@ert1993f#@ert1993f#1819.463#1819.684
+928	типа	типа	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1819.463#1819.684
 929	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1819.684#1819.694
 930	а	а	CCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1819.694#1820.022
 931	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	words@ert1993f#@ert1993f#1820.022#1820.278
-932	прощения	прощение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1820.278#1820.645
+932	прощения	прощение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1820.278#1820.645
 933	попросить	попросить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1820.645#1820.859
 934	?	?	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1820.859#1820.911
 935	что-то	что-то	PRON	_	Case=Acc	_	_	_	words@ert1993f#@ert1993f#1820.911#1821.206
@@ -945,12 +945,12 @@
 942	ну	ну	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1822.234#1822.33
 943	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1822.33#1822.433
 944	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	words@ert1993f#@ert1993f#1822.433#1822.495
-945	ся	себя	PRON	_	Case=Gen|Number=Sing|	_	_	_	words@ert1993f#@ert1993f#1822.495#1822.615
+945	ся	себя	PRON	_	Case=Acc	_	_	_	words@ert1993f#@ert1993f#1822.495#1822.615
 946	чувствуешь	чувствовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1822.615#1822.992
 947	отвратительно	отвратительно	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1822.992#1823.591
 948	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1823.591#1824.157
 949	и	и	CCONJ	_	_	_	_	_	words@ert1993f#@ert1993f#1824.157#1824.285
-950	такой	такой	DET	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1824.285#1824.64
+950	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1824.285#1824.64
 951	типа	типа	PART	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1824.64#1824.864
 952	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1824.864#1825.073
 953	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1825.073#1825.29
@@ -980,7 +980,7 @@
 977	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1831.187#1831.221
 978	Ну	ну	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1834.084#1834.211
 979	каши	каша	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	words@ert1993f#@ert1993f#1834.211#1834.45
-980	там	там	PART	_	_	_	_	words@ert1993f#@ert1993f#1834.45#1834.573
+980	там	там	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1834.45#1834.573
 981	всякие	всякий	DET	_	Case=Nom|Number=Plur	_	_	_	words@ert1993f#@ert1993f#1834.573#1834.852
 982	какие-то	какой-то	DET	_	Case=Nom|Number=Plur	_	_	_	words@ert1993f#@ert1993f#1834.852#1835.133
 983	такие	такой	DET	_	Case=Nom|Number=Plur	_	_	_	words@ert1993f#@ert1993f#1835.133#1835.295
@@ -992,10 +992,10 @@
 989	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@ert1993f#@ert1993f#1836.27#1836.46
 990	уже	уже	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1836.46#1836.748
 991	поняла	понять	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1836.748#1837.036
-992	что...	что...	X	_	_	_	_	words@ert1993f#@ert1993f#1837.036#1837.325
+992	что...	что...	X	_	_	_	_	_	words@ert1993f#@ert1993f#1837.036#1837.325
 993	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1837.325#1837.389
 994	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1837.389#1837.473
-995	хер хер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1838.463#1839.16
+995	хер	хер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1838.463#1839.16
 996	с	с	ADP	_	_	_	_	_	words@ert1993f#@ert1993f#1839.16#1839.216
 997	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3	_	_	_	words@ert1993f#@ert1993f#1839.216#1839.438
 998	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1839.438#1839.514
@@ -1027,7 +1027,7 @@
 1024	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	words@ert1993f#@ert1993f#1855.652#1855.825
 1025	приезжала	приезжать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1855.825#1856.103
 1026	в	в	ADP	_	_	_	_	_	words@ert1993f#@ert1993f#1856.103#1856.202
-1027	гости	гость	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur	_	_	_	words@ert1993f#@ert1993f#1856.202#1856.396
+1027	гости	гость	NOUN	_	Animacy=Anim|Case=Асc|Gender=Masc|Number=Plur	_	_	_	words@ert1993f#@ert1993f#1856.202#1856.396
 1028	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1856.396#1856.428
 1029	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1856.428#1856.46
 1030	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	words@ert1993f#@ert1993f#1856.46#1856.618
@@ -1039,7 +1039,7 @@
 1036	ситуации	ситуация	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	words@ert1993f#@ert1993f#1857.842#1858.386
 1037	проходили	проходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1858.386#1858.842
 1038	и	и	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1858.842#1858.879
-1039	типа	типа	PART	_	_	_	_	words@ert1993f#@ert1993f#1858.879#1859.17
+1039	типа	типа	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1858.879#1859.17
 1040	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1859.17#1859.191
 1041	морально	морально	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1859.191#1859.719
 1042	очень	очень	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1859.719#1859.955
@@ -1094,7 +1094,7 @@
 1091	такие	такой	DET	_	Case=Nom|Number=Plur	_	_	_	words@ert1993f#@ert1993f#1870.496#1870.667
 1092	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1870.667#1870.807
 1093	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1870.807#1870.847
-1094	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_	words@ert1993f#@ert1993f#1870.847#1871.145
+1094	знаешь	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1870.847#1871.145
 1095	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1871.145#1871.177
 1096	такие	такой	DET	_	Case=Nom|Number=Plur	_	_	_	words@ert1993f#@ert1993f#1871.177#1871.408
 1097	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1871.408#1871.721
@@ -1170,7 +1170,7 @@
 1167	уже	уже	ADV	_	Degree=Pos	_	_	_	words@ert1993f#@ert1993f#1889.738#1889.982
 1168	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1889.982#1890.16
 1169	готова	готовый	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	_	_	_	words@ert1993f#@ert1993f#1890.16#1890.921
-1170	там	там	PART	_	_	_	_	words@ert1993f#@ert1993f#1890.921#1891.246
+1170	там	там	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1890.921#1891.246
 1171	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	_	_	_	words@ert1993f#@ert1993f#1891.246#1891.384
 1172	каких-то	какой-то	DET	_	Case=Acc|Number=Plur	_	_	_	words@ert1993f#@ert1993f#1891.384#1891.714
 1173	демонов	демон	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	_	_	_	words@ert1993f#@ert1993f#1891.714#1892.128
@@ -1189,8 +1189,8 @@
 1186	/	/	PUNCT	_	_	_	_	_	words@ert1993f#@ert1993f#1895.743#1895.916
 1187	типа	типа	PART	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@ert1993f#@ert1993f#1895.916#1896.108
 1188	давай	давать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1896.108#1896.47
-1189	ещё	еще	PART	_	_	_	_	words@ert1993f#@ert1993f#1896.47#1896.647
-1190	поговорим	говорить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1896.647#1897.019
+1189	ещё	еще	PART	_	_	_	_	_	words@ert1993f#@ert1993f#1896.47#1896.647
+1190	поговорим	поговорить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@ert1993f#@ert1993f#1896.647#1897.019
 1191	о	о	ADP	_	_	_	_	_	words@ert1993f#@ert1993f#1897.019#1897.231
 1192	моих	мой	DET	_	Case=Loc|Number=Plur	_	_	_	words@ert1993f#@ert1993f#1897.231#1897.443
 1193	демонах	демон	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Plur	_	_	_	words@ert1993f#@ert1993f#1897.443#1897.657
@@ -1325,16 +1325,16 @@
 1322	не	не	PART	_	_	_	_	_	words@kib1997f#@kib1997f#1597.062#1597.165
 1323	сложилось	сложиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	words@kib1997f#@kib1997f#1597.165#1598.017
 1324	?	?	PUNCT	_	_	_	_	_	words@kib1997f#@kib1997f#1598.017#1598.077
-1325	угу	угу	X	_	_	_	_	words@kib1997f#@kib1997f#1616.089#1616.169
+1325	угу	угу	INTJ	_	_	_	_	_	words@kib1997f#@kib1997f#1616.089#1616.169
 1326	/	/	PUNCT	_	_	_	_	_	words@kib1997f#@kib1997f#1616.169#1616.249
 1327	/	/	PUNCT	_	_	_	_	_	words@kib1997f#@kib1997f#1616.249#1616.331
-1328	угу	угу	X	_		_	_	_	words@kib1997f#@kib1997f#1639.175#1639.248
+1328	угу	угу	INTJ	_	_	_	_	_	words@kib1997f#@kib1997f#1639.175#1639.248
 1329	/	/	PUNCT	_	_	_	_	_	words@kib1997f#@kib1997f#1639.248#1639.321
 1330	/	/	PUNCT	_	_	_	_	_	words@kib1997f#@kib1997f#1639.321#1639.396
-1331	угу	угу	X	_		_	_	_	words@kib1997f#@kib1997f#1655.292#1655.382
+1331	угу	угу	INTJ	_	_	_	_	_	words@kib1997f#@kib1997f#1655.292#1655.382
 1332	/	/	PUNCT	_	_	_	_	_	words@kib1997f#@kib1997f#1655.382#1655.472
 1333	/	/	PUNCT	_	_	_	_	_	words@kib1997f#@kib1997f#1655.472#1655.564
-1334	угу	угу	X	_	_	_	_	words@kib1997f#@kib1997f#1679.109#1679.278
+1334	угу	угу	INTJ	_	_	_	_	_	words@kib1997f#@kib1997f#1679.109#1679.278
 1335	/	/	PUNCT	_	_	_	_	_	words@kib1997f#@kib1997f#1679.278#1679.447
 1336	/	/	PUNCT	_	_	_	_	_	words@kib1997f#@kib1997f#1679.447#1679.616
 1337	Ну	ну	PART	_	_	_	_	_	words@kib1997f#@kib1997f#1687.279#1687.513
@@ -1347,8 +1347,8 @@
 1344	штука	штука	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@kib1997f#@kib1997f#1746.583#1746.886
 1345	/	/	PUNCT	_	_	_	_	_	words@kib1997f#@kib1997f#1746.886#1746.932
 1346	/	/	PUNCT	_	_	_	_	_	words@kib1997f#@kib1997f#1746.932#1746.978
-1347	#смеётся#	#смеётся#	X	_	_	_	_	words@kib1997f#@kib1997f#1777.795#1779.789
-1348	Угу	угу	X	_	_	_	_	words@kib1997f#@kib1997f#1831.22#1831.479
+1347	#смеётся#	#смеётся#	X	_	_	_	_	_	words@kib1997f#@kib1997f#1777.795#1779.789
+1348	Угу	угу	INTJ	_	_	_	_	_	words@kib1997f#@kib1997f#1831.22#1831.479
 1349	/	/	PUNCT	_	_	_	_	_	words@kib1997f#@kib1997f#1831.479#1831.738
 1350	/	/	PUNCT	_	_	_	_	_	words@kib1997f#@kib1997f#1831.738#1831.999
 1351	В	в	ADP	_	_	_	_	_	words@kib1997f#@kib1997f#1839.81#1839.916
@@ -1373,11 +1373,11 @@
 1370	публичные	публичный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	words@kib1997f#@kib1997f#1847.209#1847.812
 1371	так	так	ADV	_	Degree=Pos	_	_	_	words@kib1997f#@kib1997f#1847.812#1847.879
 1372	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@kib1997f#@kib1997f#1847.879#1848.341
-1373	дружбы	дружба	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	words@kib1997f#@kib1997f#1848.341#1848.803
+1373	дружбы	дружба	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@kib1997f#@kib1997f#1848.341#1848.803
 1374	/	/	PUNCT	_	_	_	_	_	words@kib1997f#@kib1997f#1848.803#1848.842
 1375	если	если	SCONJ	_	_	_	_	_	words@kib1997f#@kib1997f#1848.842#1849.512
 1376	так	так	ADV	_	Degree=Pos	_	_	_	words@kib1997f#@kib1997f#1849.512#1849.788
-1377	можно	можно	ADV	_	Degree=Pos	_	_	_	words@kib1997f#@kib1997f#1849.788#1850.064
+1377	можно	можно	VERB	_	_	_	_	_	words@kib1997f#@kib1997f#1849.788#1850.064
 1378	выразиться	выразиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	_	_	_	words@kib1997f#@kib1997f#1850.064#1850.583
 1379	/	/	PUNCT	_	_	_	_	_	words@kib1997f#@kib1997f#1850.583#1850.738
 1380	/	/	PUNCT	_	_	_	_	_	words@kib1997f#@kib1997f#1850.738#1850.894
@@ -1392,11 +1392,11 @@
 1389	сказала	сказать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@kib1997f#@kib1997f#1914.13#1914.583
 1390	/	/	PUNCT	_	_	_	_	_	words@kib1997f#@kib1997f#1914.583#1914.694
 1391	/	/	PUNCT	_	_	_	_	_	words@kib1997f#@kib1997f#1914.694#1914.789
-1392	Угу	угу 	X	_	_	_	_	words@kib1997f#@kib1997f#1917.505#1918.034
+1392	Угу	угу	X	_	_	_	_	_	words@kib1997f#@kib1997f#1917.505#1918.034
 1393	/	/	PUNCT	_	_	_	_	_	words@kib1997f#@kib1997f#1918.034#1918.093
 1394	/	/	PUNCT	_	_	_	_	_	words@kib1997f#@kib1997f#1918.093#1918.157
 1395	Спокойна	спокойный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	_	_	_	words@kib1997f#@kib1997f#1920.178#1920.447
-1396	короче	короче	ADV	_	Degree=Cmp	_	_	_	words@kib1997f#@kib1997f#1920.447#1920.716
+1396	короче	короче	ADV	_	Degree=Pos	_	_	_	words@kib1997f#@kib1997f#1920.447#1920.716
 1397	за	за	ADP	_	_	_	_	_	words@kib1997f#@kib1997f#1920.716#1920.985
 1398	неё	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	_	_	_	words@kib1997f#@kib1997f#1920.985#1921.254
 1399	?	?	PUNCT	_	_	_	_	_	words@kib1997f#@kib1997f#1921.254#1921.526
