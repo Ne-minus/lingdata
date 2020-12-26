@@ -12,7 +12,7 @@
 12	!	!	PUNCT	_	_	_	_	_	iau1978m-words#iau1978m#1233.05#1233.23
 13	конечно	конечно	ADV	_	Degree=Pos	_	_	_	iau1978m-words#iau1978m#1233.95#1234.217
 14	насколько	насколько	ADV	_	Degree=Pos	_	_	_	iau1978m-words#iau1978m#1234.217#1234.484
-15	вы	вы	PRON	_	Case=Nom|Number=Pl|Person=2	_	_	_	iau1978m-words#iau1978m#1234.484#1234.751
+15	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	iau1978m-words#iau1978m#1234.484#1234.751
 16	отличаетесь	отличаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	iau1978m-words#iau1978m#1234.751#1235.018
 17	от	от	ADP	_	_	_	_	_	iau1978m-words#iau1978m#1235.018#1235.285
 18	Надежды	Надежда	PROPN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	_	_	_	iau1978m-words#iau1978m#1235.285#1235.552
@@ -47,7 +47,7 @@
 47	пожалуйста	пожалуйста	PART	_	_	_	_	_	iau1978m-words#iau1978m#1248.356#1248.704
 48	Кирилл	Кирилл	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	iau1978m-words#iau1978m#1248.704#1249.052
 49	/	/	PUNCT	_	_	_	_	_	iau1978m-words#iau1978m#1249.052#1249.4
-50	можно	можно	ADV	_	Degree=Pos	_	_	_	iau1978m-words#iau1978m#1249.4#1249.748
+50	можно	можно	VERB	_	_	_	_	_	iau1978m-words#iau1978m#1249.4#1249.748
 51	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	iau1978m-words#iau1978m#1249.748#1250.096
 52	начну	начать	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	iau1978m-words#iau1978m#1250.096#1250.444
 53	с	с	ADP	_	_	_	_	_	iau1978m-words#iau1978m#1250.444#1250.792
@@ -214,7 +214,7 @@
 214	вот	вот	PART	_	_	_	_	_	iau1978m-words#iau1978m#1312.106#1312.38
 215	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	iau1978m-words#iau1978m#1312.38#1312.654
 216	вот	вот	PART	_	_	_	_	_	iau1978m-words#iau1978m#1312.654#1312.928
-217	это	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|Case=Nom|Gender=Neut|Number=Sing	_	_	_	iau1978m-words#iau1978m#1312.928#1313.202
+217	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	iau1978m-words#iau1978m#1312.928#1313.202
 218	движение	движение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	iau1978m-words#iau1978m#1313.202#1313.476
 219	Мика	Мик	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	iau1978m-words#iau1978m#1313.476#1313.75
 220	Джаггера	Джаггер	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	iau1978m-words#iau1978m#1313.75#1314.024
@@ -318,7 +318,7 @@
 318	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	iau1978m-words#iau1978m#1359.262#1359.438
 319	очень	очень	ADV	_	Degree=Pos	_	_	_	iau1978m-words#iau1978m#1359.438#1359.614
 320	нра...	нра...	X	_	_	_	_	_	iau1978m-words#iau1978m#1359.614#1359.79
-321	 вы	 вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	iau1978m-words#iau1978m#1359.79#1359.966
+321	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	iau1978m-words#iau1978m#1359.79#1359.966
 322	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	iau1978m-words#iau1978m#1359.966#1360.142
 323	считаю	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	iau1978m-words#iau1978m#1360.142#1360.318
 324	что	что	SCONJ	_	_	_	_	_	iau1978m-words#iau1978m#1360.318#1360.494
@@ -732,7 +732,7 @@
 732	позволите	позволить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	iau1978m-words#iau1978m#1555.883#1556.161
 733	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	iau1978m-words#iau1978m#1556.161#1556.439
 734	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	iau1978m-words#iau1978m#1556.439#1556.717
-735	поговорить	говорить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	iau1978m-words#iau1978m#1556.717#1556.995
+735	поговорить	поговорить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	iau1978m-words#iau1978m#1556.717#1556.995
 736	с	с	ADP	_	_	_	_	_	iau1978m-words#iau1978m#1556.995#1557.273
 737	вами	вы	PRON	_	Case=Ins|Number=Plur|Person=2	_	_	_	iau1978m-words#iau1978m#1557.273#1557.551
 738	/	/	PUNCT	_	_	_	_	_	iau1978m-words#iau1978m#1557.551#1557.829
